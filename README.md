@@ -20,4 +20,7 @@ ________________________________________________________________________________
 
 
 # Notes:
-  These algorithm implementations use Depth Limited Depth First Search aproach. Depth-Limits can be changed manually from code for now. 
+  
+  -These algorithm implementations use Depth Limited Depth First Search aproach. Depth-Limits can be changed manually from code for now.
+  
+  -Left out comments in the code generally are System.out.println(). They are left intilially. They are where the critical points occurs. You can freely uncomment them to get more detailed or specific reports instead of the one console displaying at every turn.
